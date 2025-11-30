@@ -1,1 +1,1 @@
-print("This Computer Sciense Course")
+print("This computer sciense Course")
